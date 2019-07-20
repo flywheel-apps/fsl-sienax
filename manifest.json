@@ -105,7 +105,7 @@
 		},
 		"gear-builder": {
 			"category": "analysis",
-			"image": "fsl-sienax:1.1.0_5.0"
+			"image": "flywheel/fsl-sienax:1.0.0_5.0"
 		}
 	}
 }

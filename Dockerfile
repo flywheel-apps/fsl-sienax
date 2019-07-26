@@ -1,4 +1,4 @@
-FROM flywheel/fsl-siena:1.0.0_5.0
+FROM flywheel/fsl-siena:1.0.0_5.0_optibet
 
 # Only difference in execution is the manifest
 ENV FLYWHEEL /flywheel/v0

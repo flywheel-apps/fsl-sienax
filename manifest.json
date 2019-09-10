@@ -15,9 +15,9 @@
     },
     "gear-builder": {
       "category": "analysis",
-      "image": "flywheel/fsl-sienax:1.0.1_5.0"
+      "image": "flywheel/fsl-sienax:1.0.2_5.0"
     },
-    "docker-image": "flywheel/fsl-sienax:1.0.1_5.0"
+    "docker-image": "flywheel/fsl-sienax:1.0.2_5.0"
   },
   "inputs": {
     "key": {

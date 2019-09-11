@@ -52,7 +52,7 @@
     },
     "OPTIBET": {
       "default": true,
-      "description": "Use optiBET to perform brain-extractions. This option provides extraction even in patients brains, where extensive pathology may be present (see: https://montilab.psych.ucla.edu/fmri-wiki/optibet/). [default=false]",
+      "description": "Use optiBET to perform brain-extractions. This option provides extraction even in patients brains, where extensive pathology may be present (see: https://montilab.psych.ucla.edu/fmri-wiki/optibet/). [default=true]",
       "id": "-d",
       "type": "boolean"
     },
